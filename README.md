@@ -11,7 +11,7 @@ This repository has the Keras implementation of
 
 [Article about this project](https://www.linkedin.com/pulse/deep-reinforcement-learning-trading-saeed-rahman)
 
-<img width="597" height="316" alt="image" src="https://github.com/user-attachments/assets/be00c3d2-27b9-4910-af8b-7fea1db6c809" />
+![gif](images/fe800gif.gif)
 
 
 
